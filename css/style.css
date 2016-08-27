@@ -1,0 +1,26 @@
+body {
+  font-size: 14px;
+  line-height: normal;
+  font-style: normal;
+  font-weight: normal;
+  font-family: serif;
+  color: #000000;
+}
+
+p {
+  font-size: 14px;
+  line-height: normal;
+  font-style: normal;
+  font-weight: normal;
+  font-family: serif;
+  color: #000000;
+}
+
+h2 {
+  font-size: 21px;
+  line-height: normal;
+  font-style: normal;
+  font-weight: bold;
+  font-family: serif;;
+  color: #000000;
+}
